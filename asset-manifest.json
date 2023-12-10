@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mokuleleregisterpage/static/css/main.e3776568.css",
+    "main.js": "/mokuleleregisterpage/static/js/main.b5243594.js",
+    "index.html": "/mokuleleregisterpage/index.html",
+    "main.e3776568.css.map": "/mokuleleregisterpage/static/css/main.e3776568.css.map",
+    "main.b5243594.js.map": "/mokuleleregisterpage/static/js/main.b5243594.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3776568.css",
+    "static/js/main.b5243594.js"
+  ]
+}
